@@ -1,0 +1,1 @@
+Quick explanation how it works, the recording happens in other pc over wifi and is recording the stream output made by mjpstreamer in the bananapi thats it
